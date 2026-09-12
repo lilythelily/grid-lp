@@ -21,6 +21,10 @@
   --opacity08: 0.8;
 }
 
+html{
+  overflow-x:hidden;
+}
+
 body {
   font-size: var(--fs17);
   background-color: var(--blue-700);
